@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Optional, only needed if sourcing real exposure data (engine/data_sources.py)
+duckdb>=0.10        # for Overture Maps queries
+geopandas>=0.14      # for Microsoft Building Footprints processing
