@@ -66,6 +66,10 @@ Outputs written to `data/output/`:
 - `summary_metrics.csv` — AAL, TVaR, and loss at standard return periods
 - `ep_curves.png`, `annual_loss_distribution.png` — plots
 
+<img src="https://github.com/jagreen1/flood_cat_model/blob/main/data/output/annual_loss_distribution.png?raw=1" width="800" />
+<img src="https://github.com/jagreen1/flood_cat_model/blob/main/data/output/ep_curves.png?raw=1" width="800" />
+
+
 ## How the engine works
 
 ### 1. Hazard: stochastic event set
