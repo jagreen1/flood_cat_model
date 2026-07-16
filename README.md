@@ -1,6 +1,7 @@
 # Flood Catastrophe Modelling Engine
 
-This repository contains a python-based Flood Catastrophe Modelling Engine that was developed for experimental purposes. It mirrors how typical commerical and open-source CAT models are built, following the Hazard, Vulnerability, Exposure, Financial pipeline. The engine can be run with synthetically generated or user input data. 
+This repository contains a simple python-based Flood Catastrophe Modelling Engine I developed for experimental/learning purposes. It mirrors how typical commerical and open-source CAT models are built, following the Hazard, Vulnerability, Exposure, Financial pipeline. The engine can be run with synthetically generated or user input data for hazard stochastic event sets, vulnerability depth-damage curves with building characteristics, and asset exposure portfolios. Financial policy and loss engines run Monte Carlo Simulations and output loss charts/metrics (AAL, OEP, AEP).
+
 
 A simple modular Python implementation of the standard catastrophe
 modelling structure used across insurance/reinsurance:
